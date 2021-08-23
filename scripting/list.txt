@@ -1,0 +1,10 @@
+capture_output.swift
+error.log
+hello.swift
+input.swift
+list.swift
+list.txt
+list2.swift
+pipe.swift
+pipe_with_wait.swift
+run_ls.swift
